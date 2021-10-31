@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @laraspramesty6770
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning python,linux
-- 💞️ I’m looking to collaborate on Linux
 - 📫 How to reach me [Pramesty1701@gmail.com]
 
 <!---
